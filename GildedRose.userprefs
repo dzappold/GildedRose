@@ -1,1 +1,12 @@
-﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="src/GildedRose.Tests/GildedRose.Tests.csproj" />
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="src/GildedRose.Tests/GildedRose.Tests.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/GildedRose.Tests/InventoryTest.cs">
+    <Files>
+      <File FileName="src/GildedRose.Tests/InventoryTest.cs" Line="32" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
